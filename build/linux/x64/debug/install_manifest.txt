@@ -1,0 +1,14 @@
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/pokemon_digital_solutions
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/lib/libisar_flutter_libs_plugin.so
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/lib/libisar.so
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/jano/development/pokemon_ds/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
